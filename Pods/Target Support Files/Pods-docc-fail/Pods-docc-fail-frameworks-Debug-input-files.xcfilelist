@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-docc-fail/Pods-docc-fail-frameworks.sh
+${BUILT_PRODUCTS_DIR}/BlueprintUI/BlueprintUI.framework
+${BUILT_PRODUCTS_DIR}/BlueprintUICommonControls/BlueprintUICommonControls.framework
+${BUILT_PRODUCTS_DIR}/BlueprintUILists/BlueprintUILists.framework
+${BUILT_PRODUCTS_DIR}/Core/Core.framework
+${BUILT_PRODUCTS_DIR}/ListableUI/ListableUI.framework

@@ -1,0 +1,37 @@
+{
+  "name": "Core",
+  "version": "1.0",
+  "summary": "Primitive types for building a design system",
+  "homepage": "https://github.com/squareup/market",
+  "license": {
+    "type": "Proprietary",
+    "text": "© 2020 Square, Inc."
+  },
+  "authors": {
+    "UI Systems": "ui-systems-native@squareup.com"
+  },
+  "source": {
+    "git": "ssh://org-49461806@github.com/squareup/market.git",
+    "tag": "1.0"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "swift_versions": "5.0",
+  "dependencies": {
+    "BlueprintUI": [
+
+    ],
+    "BlueprintUICommonControls": [
+
+    ],
+    "ListableUI": [
+
+    ],
+    "BlueprintUILists": [
+
+    ]
+  },
+  "source_files": "Core/Sources/**/*.{swift}",
+  "swift_version": "5.0"
+}

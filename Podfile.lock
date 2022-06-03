@@ -1,0 +1,38 @@
+PODS:
+  - BlueprintUI (0.40.0)
+  - BlueprintUICommonControls (0.40.0):
+    - BlueprintUI (= 0.40.0)
+  - BlueprintUILists (4.2.0):
+    - BlueprintUI
+    - ListableUI
+  - Core (1.0):
+    - BlueprintUI
+    - BlueprintUICommonControls
+    - BlueprintUILists
+    - ListableUI
+  - ListableUI (4.2.0)
+
+DEPENDENCIES:
+  - Core (from `Core.podspec`)
+
+SPEC REPOS:
+  "org-49461806@github.com:squareup/ios-cocoapodspecs.git":
+    - BlueprintUI
+    - BlueprintUICommonControls
+    - BlueprintUILists
+    - ListableUI
+
+EXTERNAL SOURCES:
+  Core:
+    :path: Core.podspec
+
+SPEC CHECKSUMS:
+  BlueprintUI: 3fe7dbc4a8deccebad68691de6f7afa23c3561a0
+  BlueprintUICommonControls: 84bd05c1bac1e1ca397eb5284a5a951856bf360e
+  BlueprintUILists: 0b33d76ce69980527ee7bd99111b60187e3e9626
+  Core: d8c6e8008781f230e9c1b4ecd1334bb7b3c0d8cf
+  ListableUI: d5ce0048ed0bf7ec3392792696f637ce2d8076b0
+
+PODFILE CHECKSUM: 343287397b69ecaa6a95c3d0f0331c248c11ed17
+
+COCOAPODS: 1.11.2

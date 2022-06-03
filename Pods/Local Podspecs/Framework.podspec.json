@@ -1,0 +1,43 @@
+{
+  "name": "Framework",
+  "version": "1.0",
+  "summary": "Component library for Market, Square’s universal design system",
+  "homepage": "https://github.com/squareup/market",
+  "license": {
+    "type": "Proprietary",
+    "text": "© 2020 Square, Inc."
+  },
+  "authors": {
+    "UI Systems": "ui-systems-native@squareup.com"
+  },
+  "source": {
+    "git": "ssh://org-49461806@github.com/squareup/market.git",
+    "tag": "1.0"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "Framework/Sources/**/*.{swift}",
+  "dependencies": {
+    "BlueprintUI": [
+
+    ],
+    "BlueprintUICommonControls": [
+
+    ],
+    "ListableUI": [
+
+    ],
+    "BlueprintUILists": [
+
+    ],
+    "Core": [
+
+    ],
+    "UI": [
+
+    ]
+  },
+  "swift_version": "5.0"
+}

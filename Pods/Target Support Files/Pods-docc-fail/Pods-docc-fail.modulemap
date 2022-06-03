@@ -1,0 +1,6 @@
+framework module Pods_docc_fail {
+  umbrella header "Pods-docc-fail-umbrella.h"
+
+  export *
+  module * { export * }
+}
